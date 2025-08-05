@@ -1,6 +1,6 @@
 🏀 LEVEL UP – Desktop Application for NBA Stats and Live Match Tracking
 
-![Admin Panel](images/Screenshot 2025-08-05 171610.png)
+![Admin Panel](images/imstart.png)
 
 LEVEL UP is a Java-based desktop application designed to provide users with access to NBA-related content such as team/player statistics, match schedules, live scores, and ticket booking. The application supports multiple user roles with increasing privileges, including Guest, User, and Admin. It was developed as part of a structured software engineering process including case studies, a Gantt chart, user goals, functional/non-functional requirements, and class diagrams.
 🎯 Project Goals
