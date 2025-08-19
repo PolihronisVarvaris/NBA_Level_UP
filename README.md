@@ -1,3 +1,7 @@
+For additional details, visit:  
+[YouTube Tutorial Video](https://www.youtube.com/watch?v=9Ak5Y6JZ644)
+[Google Drive Folder](https://drive.google.com/drive/folders/1brcPaDAeK3tsajUsOJydPhE8Da4JcGID?usp=drive_link)
+
 🏀 LEVEL UP – Desktop Application for NBA Stats and Live Match Tracking
 
 ![alt text](./images/imstart)
@@ -5,11 +9,6 @@
 LEVEL UP is a Java-based desktop application designed to provide users with access to NBA-related content such as team/player statistics, match schedules, live scores, and ticket booking. The application supports multiple user roles with increasing privileges, including Guest, User, and Admin. It was developed as part of a structured software engineering process including case studies, a Gantt chart, user goals, functional/non-functional requirements, and class diagrams.
 
 ![alt text](./images/secim.png)
-
-[Link Tutorial Video (YouTube)](https://www.youtube.com/watch?v=9Ak5Y6JZ644)
-
-For additional details, visit:  
-[Google Drive Folder](https://drive.google.com/drive/folders/1brcPaDAeK3tsajUsOJydPhE8Da4JcGID?usp=drive_link)
 
 🎯 Project Goals
 
