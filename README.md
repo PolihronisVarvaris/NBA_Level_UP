@@ -1,5 +1,6 @@
 For additional details, visit:  
 [YouTube Tutorial Video](https://www.youtube.com/watch?v=9Ak5Y6JZ644)
+
 [Google Drive Folder](https://drive.google.com/drive/folders/1brcPaDAeK3tsajUsOJydPhE8Da4JcGID?usp=drive_link)
 
 🏀 LEVEL UP – Desktop Application for NBA Stats and Live Match Tracking
