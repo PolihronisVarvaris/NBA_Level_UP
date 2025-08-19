@@ -6,6 +6,11 @@ LEVEL UP is a Java-based desktop application designed to provide users with acce
 
 ![alt text](./images/secim.png)
 
+[Link Tutorial Video (YouTube)](https://www.youtube.com/watch?v=9Ak5Y6JZ644)
+
+For additional details, visit:  
+[Google Drive Folder](https://drive.google.com/drive/folders/1brcPaDAeK3tsajUsOJydPhE8Da4JcGID?usp=drive_link)
+
 🎯 Project Goals
 
     Team creation and management
